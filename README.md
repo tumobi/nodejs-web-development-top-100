@@ -1,5 +1,5 @@
 # nodejs-web-development-top-100
-Web 开发中常用的 100 个 Node.js 包，排名不分先后。
+Web 服务端开发中常用的 100 个 Node.js 包，排名不分先后。
 
 ## 列表
 
